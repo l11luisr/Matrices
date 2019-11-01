@@ -1,14 +1,17 @@
-   Práctica #2 - Operaciones con matrices en C
+   Programación Orientada a Objetos
 
-   Rodríguez Muñoz José Luis
+   Alumno: Rodríguez Muñoz José Luis
+
+   Profesor: Reyes Juárez
 
    Grupo: 541
 
-   Fecha: 03/02/19
+   Descripción:
+   Programa en C con estructuras que consiste en operaciones con matrices entre ellas:
 
-   Descripción: Programa en lenguaje C que simula operaciones de matrices entre ellas:
-
-   1. Mostrar matrices originales ( A y B )
-   2. Muestra la SUMA de las matrices
-   3. Muestra la RESTA de las matrices
-   4. Muestra la MULTIPLICACIÓN de las matrices 
+   1. Imprime las matrices A y B
+   2. Imprime sus determinantes
+   3. Imprime la suma de la Matriz A y B
+   4. Imprime la resta de la Matriz A y B
+   5. Imprime la multiplicación de la Matriz A y B
+   6. Imprime la transpuesta 
